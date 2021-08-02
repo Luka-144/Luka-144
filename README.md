@@ -1,16 +1,16 @@
-### Hi there 👋
+### Opa 👋
+<div>
 
-<!--
-**Luka-144/Luka-144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Trabalhando na progamação atualmente: Design pra um site.
 
-Here are some ideas to get you started:
+🌱 Aprendendo atualmente: Html e Css.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 Pronomes: Ele/Dele.
+
+⚡ Fato legal: Gosto muito da progamação.
+
+</div>
+<a href="https://github.com/Luka-144">
+  <img align="right" alt="imagem-picrew" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_dU5QJCO9.png" width= "199px" height="199px">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luka-144&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
